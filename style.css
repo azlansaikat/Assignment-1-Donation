@@ -1,0 +1,172 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(50, 50, 50);
+    margin: 0;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+hr {
+    color: rgba(128, 128, 128, 0.234);
+}
+
+#main-section {
+    color: white;
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    padding: 10% 10%;
+}
+
+#donate-section {
+    text-align: center;
+    background-color: white;
+    background-size: 100%;
+    margin: 0;
+    padding: 5% 15% 3% 15%;
+}
+
+#plan-section {
+    text-align: center;
+    background-color: white;
+    background-size: 100%;
+    margin: 0;
+    padding: 3% 0% 3% 0%;
+}
+
+#gallery-section {
+    text-align: center;
+    background-color: white;
+    background-size: 100%;
+    margin: 0;
+    padding: 3% 3%;
+}
+
+#subscribe-section {
+    text-align: center;
+    background-color: transparent;
+    background-size: 100%;
+    margin: 0;
+    padding: 3% 0% 3% 0%;
+}
+
+.half-width {
+    text-align: center;
+    width: 15%;
+    padding: 1% 1%;
+}
+
+.flexible-container {
+    display: flex;
+    text-align: left;
+    background-color: transparent;
+    margin: 5px;
+    padding: 1% 5%;
+}
+
+.main-header-text {
+    font-size: 60px;
+}
+
+.donate-button {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+    margin: 0;
+}
+
+.donation-amount-clicked {
+    color: rgba(255, 135, 49, 0.836);
+    font-size: 30px;
+    background-color: rgba(255, 135, 49, 0.125);
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: rgba(255, 135, 49, 0.836);
+    margin: 5% 3%;
+    padding: 3% 2%;
+}
+
+.donation-amount {
+    font-size: 30px;
+    background-color: rgba(227, 224, 224, 0.351);
+    border-radius: 5px;
+    border: none;
+    margin: 5% 3%;
+    padding: 3% 2%;
+}
+
+
+
+.plan-food-division {
+    width: 33%;
+    background-color: rgba(156, 180, 237, 0.5);
+    margin: 15px;
+    padding: 3%;
+}
+
+.plan-shelter-division {
+    width: 33%;
+    background-color: rgba(252, 180, 229, 0.5);
+    margin: 15px;
+    padding: 3%;
+}
+
+.plan-education-division {
+    width: 33%;
+    background-color: rgba(241, 255, 172, 0.5);
+    margin: 15px;
+    padding: 3%;
+}
+
+.other-amount {
+    color: gray;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+.email-field {
+    color: gray;
+    text-align: left;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    background-color: rgb(216, 216, 216);
+    resize: none;
+    outline: none;
+}
+
+.update {
+    background-color: rgb(255, 253, 218);
+    background-size: 30%;
+    padding: 4%;
+    margin: 3% 20%;
+}
+
+.footer-text {
+    color: rgb(255, 56, 56);
+    font-style: bold;
+    font-size: 25px;
+    text-align: center;
+    background-color: black;
+    background-size: 100%;
+    padding: 4%;
+}
+
+.motto {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
